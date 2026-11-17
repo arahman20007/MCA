@@ -1,5 +1,0 @@
-k,objective,checkpoint,seed,J,L2_norm,DFR_Hminus1_norm,L2_low4_share,DFR_low4_share,L2_target_share,DFR_target_share,residual_coeff_source
-8,raw,final,1,64,3.7940444858745557,20.126543564177894,0.9677182242161207,0.3660112427427761,0.021302633970910353,0.47816685272416753,reconstructed as lambda_j*error_coefficient; not measured independently
-8,normalized,final,1,64,3.794189121744683,20.12213769029668,0.9677594637883377,0.36601917784810467,0.02130404238543273,0.4784443750732805,reconstructed as lambda_j*error_coefficient; not measured independently
-16,raw,final,1,64,7.413037139211983,41.42874581925365,0.9903479282861781,0.315593551574157,0.007266025385258025,0.5877943420666798,reconstructed as lambda_j*error_coefficient; not measured independently
-16,normalized,final,1,64,7.40029699852934,41.405726386501016,0.9903153024530645,0.31484913354847865,0.007291216769260526,0.588460348238433,reconstructed as lambda_j*error_coefficient; not measured independently
